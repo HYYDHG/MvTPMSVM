@@ -3,7 +3,8 @@
 
 Please cite the following paper if you are using this code.
 
-A. Quadir, M. Tanveer (2024). “Multi-view learning with twin parametric margin SVM, Neural Networks, Elsevier” 
+Quadir, A., & Tanveer, M. (2024). Multiview learning with twin parametric margin SVM. Neural Networks, 180, 106598. https://doi.org/10.1016/j.neunet.2024.106598
+
 
 The experiments are executed on a computing system possessing Matlab2023a software, an Intel(R) Xeon(R) CPU E5-2697 v4 processor operating at 2.30 GHz with 128-GB Random Access Memory (RAM), and a Windows-11 operating platform.
 
